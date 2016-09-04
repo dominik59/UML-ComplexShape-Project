@@ -19,17 +19,19 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Circle.cpp" />
-    <ClCompile Include="..\ComplexShape.cpp" />
-    <ClCompile Include="..\main.cpp" />
-    <ClCompile Include="..\Rectangle.cpp" />
-    <ClCompile Include="..\Shape.cpp" />
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="ComplexShape.cpp" />
+    <ClCompile Include="CountingVisitor.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Shape.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Circle.h" />
-    <ClInclude Include="..\ComplexShape.h" />
-    <ClInclude Include="..\Rectangle.h" />
-    <ClInclude Include="..\Shape.h" />
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="ComplexShape.h" />
+    <ClInclude Include="CountingVisitor.h" />
+    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Shape.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D2AB996E-A87B-4A72-AF1E-0470242B182D}</ProjectGuid>

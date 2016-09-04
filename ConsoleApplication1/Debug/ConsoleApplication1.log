@@ -1,3 +1,4 @@
-﻿  main.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\DominikP\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> C:\Users\DominikP\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+﻿  CountingVisitor.cpp
+c:\users\dominikp\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\countingvisitor.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ConsoleApplication1.vcxproj -> C:\Users\DominikP\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\DominikP\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
